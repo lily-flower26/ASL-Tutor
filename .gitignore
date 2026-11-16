@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/raw/
+data/landmarks/
+data/prepared/
+data/gislr/
+data/WLASL_v0.3.json
+models/
+.DS_Store

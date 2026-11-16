@@ -1,0 +1,22 @@
+{
+  "_comment": "Initial proof-of-concept vocabulary: 15 common, visually distinct ASL signs. If a gloss below isn't found in WLASL (spelling can vary), check WLASL_v0.3.json for the closest match and edit this list.",
+  "target_signs": [
+    "hello",
+    "thank you",
+    "please",
+    "yes",
+    "no",
+    "help",
+    "more",
+    "finish",
+    "water",
+    "name",
+    "book",
+    "eat",
+    "drink",
+    "sorry",
+    "friend"
+  ],
+  "min_clips_per_sign": 8,
+  "sequence_length": 30
+}
